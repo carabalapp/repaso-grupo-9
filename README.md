@@ -10,7 +10,7 @@ Repositorio para repasar lo que ya se ha visto
    a) git status
    b) git add .
    c) git commit -m "mensaje"
-   d) git push
+   d) git push origin nombre de la rama en la que nos encontramos
 
 # Realizando un pull request desde mi rama
 1) Crear una nueva rama con git checkout -b nombre-rama
@@ -19,4 +19,4 @@ Repositorio para repasar lo que ya se ha visto
    a) git status
    b) git add .
    c) git commit -m "mensaje"
-   d) git push
+   d) git push origin nombre de la rama en la que nos encontramos
